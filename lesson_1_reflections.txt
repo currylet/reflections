@@ -1,0 +1,2 @@
+Why should I hold faith in version-control?
+Because everytime a destruction is made to my project, I can always checkout to and older version where the destruction haven't occur.
